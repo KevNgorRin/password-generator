@@ -1,0 +1,15 @@
+{
+  "short_name": "Password Generator",
+  "name": "Password Generator by KevNgorRin",
+  "icons": [
+    {
+      "src": "https://kevngorrin.github.io/kevngorrin-logo.jpg",
+      "type": "image/jpg",
+      "sizes": "240x240"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#08f",
+  "background_color": "#eee"
+}
