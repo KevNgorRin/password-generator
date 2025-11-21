@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://kevydev.github.io/PasswordGenerator/",
+  "homepage": "https://kevngorrin.github.io/password-generator/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

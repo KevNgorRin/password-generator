@@ -1,9 +1,9 @@
 {
   "short_name": "Password Generator",
-  "name": "Password Generator by KevyDev",
+  "name": "Password Generator by KevNgorRin",
   "icons": [
     {
-      "src": "https://kevydev.github.io/portfolio/kevydev-logo.jpg",
+      "src": "https://kevngorrin.github.io/kevngorrin-logo.jpg",
       "type": "image/jpg",
       "sizes": "240x240"
     }
